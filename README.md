@@ -1,4 +1,4 @@
-# opensea bidding bot
+# Opensea bidding bot
 Considering bidding on listings on Opensea? Maybe you are already bidding and have been using a python/node.js setup on your desktop?
 
 Imagine bidding on NFTs from a secure web-based dashboard.
